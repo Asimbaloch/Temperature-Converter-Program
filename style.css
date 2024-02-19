@@ -4,25 +4,21 @@
     box-sizing: border-box;
 }
 
-body, html {
-    height: 100%;
-    width: 100%;
-}
 
 form {
     text-align: center;
     color: white;
     background-color: rgba(59, 150, 192, 0.842);
     max-width: 400px;
+    height: auto;
+    
     margin: auto;
     margin-top: 30px;
     border-radius: 5px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
-
     box-shadow: 5px 5px 15px;
     padding: 30px;
-    
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
